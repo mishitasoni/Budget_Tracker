@@ -1,0 +1,3 @@
+Prerequisites-
+mysql-connector-python
+matplotlib
